@@ -10,9 +10,11 @@
 * templeOS user
 * idk any programming languages really lol
 
-my github stats
+<details>
+<summary> my github stats </summary>
+  
 [![hitorigotoUwU's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitorigotoUwU&show_icons=true&theme=solarized-dark)
-](https://github.com/anuraghazra/github-readme-stats)
+  
+</details>
 
-
-60 END
+###### 60 END
