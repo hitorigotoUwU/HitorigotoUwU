@@ -1,16 +1,18 @@
-### Hi there 👋
+![banner](https://user-images.githubusercontent.com/92250654/138549801-ec9ecb88-66c5-416d-906f-47d3ac1ace2c.png)
 
-<!--
-**hitorigotoUwU/HitorigotoUwU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## salut tout le monde. :sunglasses:
 
-Here are some ideas to get you started:
+##### i'm tyler.
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* decent at english et très mauvais à français
+* templeOS user
+* idk any programming languages really lol
+
+my github stats
+[![hitorigotoUwU's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitorigotoUwU&show_icons=true&theme=solarized-dark)
+](https://github.com/anuraghazra/github-readme-stats)
+
+
+60 END
