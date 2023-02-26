@@ -1,1 +1,1 @@
-![banner](https://user-images.githubusercontent.com/92250654/138549801-ec9ecb88-66c5-416d-906f-47d3ac1ace2c.png)
+![gentoo](https://user-images.githubusercontent.com/92250654/221406306-8f9ad5c5-1234-436b-a754-aa790fd206b7.png)
